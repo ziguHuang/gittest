@@ -12,3 +12,5 @@ edit after add file to stage
 22
 
 33
+
+status
